@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/Stackfood-delivery-man-app-V7.2.1/Delivery man app/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Stackfood-delivery-man-app-V7.2.1/Delivery man app/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Stackfood-delivery-man-app-V7.2.1/Delivery man app/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Stackfood-restaurant-app-v7.2.1/Restaurant app/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Stackfood-restaurant-app-v7.2.1/Restaurant app/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Stackfood-restaurant-app-v7.2.1/Restaurant app/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
